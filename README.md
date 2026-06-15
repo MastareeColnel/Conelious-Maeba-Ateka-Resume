@@ -6,6 +6,7 @@ I am an Information Science graduate from the Technical University of Mombasa wi
 Currently, I am building my expertise in cloud technologies, data-driven decision-making, and technology-enabled solutions while exploring opportunities to contribute to impactful projects across business, government, and development sectors.
 
 MY CAREER JOURNEY/ABOUT ME
+
 I graduated with a BSc in Information Science – Technical University of Mombasa.
 I am an AWS Cloud Practitioner, focused on Cloud Computing & Solutions Architecture.
 I have a growing interest in Data Analytics, Power BI, and Business Intelligence.
@@ -13,6 +14,7 @@ I am an enthusiast of Artificial Intelligence and Machine Learning.
 I am passionate about Project Management and Business Analysis and very much interested in sustainable technology solutions for Africa.
 
 TECHNICAL SKILLS
+
 Cloud & Infrastructure
 •	AWS Cloud Services
 •	Terraform (Infrastructure as Code)
@@ -22,6 +24,7 @@ Cloud & Infrastructure
 •	Cloud Architecture Design
 
 Data & Analytics
+
 •	Microsoft Excel
 •	Power BI
 •	Data Management
@@ -30,6 +33,7 @@ Data & Analytics
 •	Google Analytics
 
 Project & Business Analysis
+
 •	Project Coordination
 •	Agile Planning
 •	Business Requirements Documentation
@@ -39,6 +43,7 @@ Project & Business Analysis
 •	Stakeholder Engagement
 
 Productivity & Collaboration
+
 •	Microsoft 365
 •	Google Workspace
 •	Technical Documentation
@@ -71,16 +76,19 @@ d. Freelance Financial Data Entry - Elizabeth Lyons Company (USA), Oct 2022 – 
 PERSONAL PROJECTS
 
 Cloud Architecture Project
+
 •	Designed and deployed a high-availability cloud solution using AWS Management Console. 
 •	Provisioned and automated infrastructure using Terraform (Infrastructure as Code) and VS Code Terminal. 
 •	Configured VPC, IAM, subnets, and load balancing for scaalability and security.
 
 Cloud Simulation Labs
+
 •	Built and tested cloud environments with multi-AZ zone deployments. 
 •	Applied sustainable solutions architecture principles (availability, performance, cost optimization).
 •	Applied AWS Well-Architected principles.
 
 PROFESSIONAL CERTIFICATIONS
+
 •	AWS Cloud Practitioner
 •	IBM Native Cloud Computing
 •	Oracle Cloud Infrastructure (OCI) Foundations Associate
@@ -90,6 +98,7 @@ PROFESSIONAL CERTIFICATIONS
 •	Designing and Deploying Computer Networks
 
 CURRENT LEARNING GOALS
+
 I am currently focused on:
 •	Advanced Cloud Architecture
 •	Data Analytics & Visualization
@@ -99,9 +108,11 @@ I am currently focused on:
 •	Solutions Architecture
 
 MY CAREER VISION
+
 My long-term goal is to bridge technology, data, and sustainable development by designing solutions that create measurable impact and boost sustainability. I aspire to contribute to initiatives that improve decision-making, operational efficiency, and access to information in organizations.
 
 REACH OUT TO ME
+
 Email: atekamastercolnel@gmail.com
 Tel No: +254708142768
 LinkedIn: http://www.linkedin.com/in/conelious-ateka-1352ba21b
