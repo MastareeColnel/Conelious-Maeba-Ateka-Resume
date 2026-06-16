@@ -108,7 +108,7 @@ d. Freelance Financial Data Entry - Elizabeth Lyons Company (USA), Oct 2022 – 
 
 PERSONAL PROJECTS
 
-Cloud Architecture Project
+Cloud Architecture Project (https://github.com/MastareeColnel/aws-ha-webapp-terraform)
 
 •	Designed and deployed a high-availability cloud solution using AWS Management Console. 
 
