@@ -1,6 +1,6 @@
-Conelious M. Ateka Nairobi, Kenya.
+Conelious Maeba Ateka Nairobi, Kenya.
 
-Information Science Graduate | Cloud Computing Enthusiast and aspiring Solutions Architect | Data Analysis & Project Management Professional.
+Information Science Graduate | Cloud Computing Enthusiast and aspiring Solutions Architect | Data Analysis & Project Management Professional & Business Sales Development.
 
 I am an Information Science graduate from the Technical University of Mombasa with a passion for leveraging technology, data, and information systems to solve real-world challenges. My interests span cloud computing, data analytics, project management, business analysis, knowledge management, and emerging technologies, especially Artificial Intelligence and Machine Learning.
 Currently, I am building my expertise in cloud technologies, data-driven decision-making, and technology-enabled solutions while exploring opportunities to contribute to impactful projects across business, government, and development sectors.
@@ -32,6 +32,7 @@ Cloud & Infrastructure
 Data & Analytics
 
 •	Microsoft Excel
+
 •	Power BI
 
 •	Data Management
@@ -70,7 +71,7 @@ Productivity & Collaboration
 
 PROFESSIONAL EXPERIENCE
 
-a. Information & Records Management Intern - Ministry of Sports, Youth Affairs – Registrar's Office Jan 2026 – present.
+a. Information & Records Management Intern - Ministry of Youth Affairs, Creative Economy and Sports Jan 2026 – present.
 
 •	Supporting verification and management of official records.
 
@@ -148,6 +149,8 @@ I am currently focused on:
 •	Data Analytics & Visualization
 
 •	Business Analysis
+
+• Business Relationship Development
 
 •	Artificial Intelligence & Sustainability
 
