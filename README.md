@@ -67,7 +67,7 @@ Productivity & Collaboration
 
 •	Technical Documentation
 
-•	CRM Platforms
+•	CRM Platforms (Hubspot, Salesforce)
 
 PROFESSIONAL EXPERIENCE
 
@@ -126,6 +126,9 @@ Cloud Simulation Labs
 •	Applied AWS Well-Architected principles.
 
 PROFESSIONAL CERTIFICATIONS
+
+• HP LIFE - Customer Relationship Management (CRM)
+(https://www.life-global.org/certificate/5f0092bb-8aa4-42f5-88a1-f899b8115100)
 
 •	IBM Native Cloud Computing (https://www.credly.com/badges/cfbb4cfc-6a04-47c2-bbde-76ea2ea06ed3/public_url)
 
