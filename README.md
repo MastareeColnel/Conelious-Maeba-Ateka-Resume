@@ -8,10 +8,15 @@ Currently, I am building my expertise in cloud technologies, data-driven decisio
 MY CAREER JOURNEY/ABOUT ME
 
 I am currently undertaking the AWS AI & ML Scholars Future AWS AI Programmer Nanodegree program offered by AWS Cloud and Udacity.
+
 I graduated with a BSc in Information Science – Technical University of Mombasa.
+
 I am an AWS Cloud Practitioner, focused on Cloud Computing & Solutions Architecture.
+
 I have a growing interest in Data Analytics, Power BI, and Business Intelligence.
+
 I am an enthusiast of Artificial Intelligence and Machine Learning.
+
 I am passionate about Project Management and Business Analysis and very much interested in sustainable technology solutions for Africa.
 
 TECHNICAL SKILLS
