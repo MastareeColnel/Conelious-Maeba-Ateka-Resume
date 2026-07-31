@@ -7,6 +7,7 @@ Currently, I am building my expertise in cloud technologies, data-driven decisio
 
 MY CAREER JOURNEY/ABOUT ME
 
+I am currently undertaking the AWS AI & ML Scholars Future AWS AI Programmer Nanodegree program offered by AWS Cloud and Udacity.
 I graduated with a BSc in Information Science – Technical University of Mombasa.
 I am an AWS Cloud Practitioner, focused on Cloud Computing & Solutions Architecture.
 I have a growing interest in Data Analytics, Power BI, and Business Intelligence.
@@ -126,6 +127,9 @@ Cloud Simulation Labs
 •	Applied AWS Well-Architected principles.
 
 PROFESSIONAL CERTIFICATIONS
+
+• HP LIFE - Customer Experience (CX) for Business Success
+(https://www.life-global.org/certificate/0ef1f36b-cd08-483f-967e-208c8f802eb8)
 
 • HP LIFE - Customer Relationship Management (CRM)
 (https://www.life-global.org/certificate/5f0092bb-8aa4-42f5-88a1-f899b8115100)
