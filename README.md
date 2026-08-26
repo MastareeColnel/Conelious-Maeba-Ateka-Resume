@@ -115,6 +115,14 @@ d. Freelance Financial Data Entry - Elizabeth Lyons Company (USA), Oct 2022 – 
 
 PERSONAL PROJECTS
 
+Knowledge Management Hub
+
+• Developed a dynamic knowledge management web application for organizing technical knowledge across cloud computing, AI, data analytics, software development, cybersecurity, and networking.
+
+• Implemented Express.js routing and EJS templating to render category content from structured JavaScript data dynamically.
+
+• Implemented automated API testing using Jest and Supertest and integrated the project with GitHub for version control and CI/CD workflows.
+
 Cloud Architecture Project (https://github.com/MastareeColnel/aws-ha-webapp-terraform)
 
 •	Designed and deployed a high-availability cloud solution using AWS Management Console. 
@@ -158,7 +166,7 @@ I am currently focused on:
 
 •	Advanced Cloud Architecture
 
-•	Data Analytics & Visualization
+•	Data Analytics & Visualization (Python, Tableau, Pandas, Power BI)
 
 •	Business Analysis
 
